@@ -1,0 +1,23 @@
+{
+  "name": "solana-token-airdrop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecryptodiver/solana-token-airdrop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecryptodiver/solana-token-airdrop/issues"
+  },
+  "homepage": "https://github.com/thecryptodiver/solana-token-airdrop#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.31.0"
+  }
+}
